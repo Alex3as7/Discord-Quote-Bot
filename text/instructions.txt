@@ -1,0 +1,3 @@
+PUT YOUR client_secret.json, quote_book.txt and token_drive_v3.pickle FILES IN THIS FOLDER
+
+IF GOOGLE DRIVE IMPORTS AREN'T NEEDED, YOU ONLY NEED THE quote_book.txt FILE IN HERE
