@@ -58,12 +58,14 @@ async def help(ctx):
 
 
 if __name__ == '__main__':
+    
     os.chdir(r'text')
     try:
         download()
     except:
         print('File Download Failed')
-    bot.run('OTI5NDUxNTI1ODY3MjAwNjEy.GPIMxv.1Jarq0nCbEWZ9roToR0Q8JUf2Ux-aCjFSwh39g')
+
+    bot.run('API-KEY-HERE')
 
 
             
