@@ -4,6 +4,8 @@ Some of the source needs to be edited in order for the code to run, like the dis
 
 The google drive import function is not necessary.
 
+
+
 This bot has 4 main commands:
 
 .quote - randomly quotes a person from the quote_book.txt
