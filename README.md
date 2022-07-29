@@ -16,4 +16,3 @@ This bot has 4 main command:
 
 .help - lists all available commands
 
-NOTE: This bot was designed as fun, and was never a serious project, bugs and issues are TBE
